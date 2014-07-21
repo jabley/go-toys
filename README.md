@@ -1,0 +1,1 @@
+Simple things that I've played with when learning go.
